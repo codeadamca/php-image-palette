@@ -4,7 +4,6 @@ Converting an image to use a speciic colour palette.
 
 https://stackoverflow.com/questions/12178874/replace-a-color-with-another-in-an-image-with-php
 
-
 - Loop through each pixel
 - Get closest colour from each pixel to colour list
 - Replace that colour
